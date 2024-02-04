@@ -6,7 +6,7 @@ This repository contains code to replicate the experiments in the paper: Probing
 
 The experiments mainly fall into three categories, each in a seperate directory: 
 
-[**Neuron Probing**](##Neuron%20Probing) | [**Cross-lingual Transfer**](##Cross%20lingual%20Transfer%20Ability%20Evaluation) | [**Parallel Sentence Similarity**](##Paralllel%20Sentence%20Similarity)
+[**Neuron Probing**](<##neuron-probing>) | [**Cross-lingual Transfer**](##cross-lingual-transfer-ability-evaluation) | [**Parallel Sentence Similarity**](##paralllel-sentence-similarity)
 
 ## Neuron Probing
 This batch of code is under `multilingual-typology-probing/`, which is used to probe the neurons that encode the most morphosyntactic information. This batch of code is inherented from the paper: [Same Neurons, Different Languages: Probing Morphosyntax in Multilingual Pre-trained Models (Stańczak et al., NAACL 2022)](https://arxiv.org/abs/2205.02023) and their [repo](https://github.com/copenlu/multilingual-typology-probing). 
