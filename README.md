@@ -54,7 +54,7 @@ bash scripts/train.sh bloom-560m-intermediate-global_step1000 udpos
 ```
 
 ## Parallel Sentence Similarity
-Please first download the OPUS data [here](), and upzip it under `parallel-sentence-similarity/data`.
+Please first download the OPUS data [here](https://drive.google.com/file/d/1TA8PfnrsYzU5v-G0Dwgj9VJal4f5AzjQ/view?usp=sharing), and upzip it under `parallel-sentence-similarity/data`.
 
 Then, use the following command to compute the average similarity of the parallel sentences, in the same environment you created for xtreme:
 
