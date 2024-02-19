@@ -1,6 +1,6 @@
-# Probing the Dynamics of Cross-lingual Alignment throughout Training in Multilingual Language Models
+# Probing the Emergence of Cross-lingual Alignment during LLM Training
 
-This repository contains code to replicate the experiments in the paper: Probing the Dynamics of Cross-lingual Alignment throughout Training in Multilingual Language Models.
+This repository contains code to replicate the experiments in the paper: Probing the Emergence of Cross-lingual Alignment during LLM Training
 
 <!-- TODO: add paper link -->
 
