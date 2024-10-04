@@ -82,6 +82,24 @@ Please cite our paper if you found it useful:
 
 
 ```
+@inproceedings{wang-etal-2024-probing-emergence,
+    title = "Probing the Emergence of Cross-lingual Alignment during {LLM} Training",
+    author = "Wang, Hetong  and
+      Minervini, Pasquale  and
+      Ponti, Edoardo",
+    editor = "Ku, Lun-Wei  and
+      Martins, Andre  and
+      Srikumar, Vivek",
+    booktitle = "Findings of the Association for Computational Linguistics ACL 2024",
+    month = aug,
+    year = "2024",
+    address = "Bangkok, Thailand and virtual meeting",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.findings-acl.724",
+    doi = "10.18653/v1/2024.findings-acl.724",
+    pages = "12159--12173",
+}
+
 ```
 
 #### Contact
